@@ -8,7 +8,7 @@ class LoginController extends Controller
 {
     public function index()
     {
-        return view ('welcome2');
+        return view ('welcome');
     }
  
     public function prueba()
